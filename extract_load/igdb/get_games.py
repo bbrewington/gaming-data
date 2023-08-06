@@ -19,10 +19,9 @@ assert payload != orig_games_fields, 'Payloads do not match'
 
 # headers = {
 #   'Accept': 'application/json',
-#   'Client-ID': '***REMOVED***',
-#   'Authorization': 'Bearer ***REMOVED***',
-#   'Content-Type': 'text/plain',
-#   'Cookie': '__cf_bm=***REMOVED***'
+#   'Client-ID': 'your_client_id_here',
+#   'Authorization': 'Bearer your_auth_token_here',
+#   'Content-Type': 'text/plain'
 # }
 
 # response = requests.request("POST", url, headers=headers, data=payload)

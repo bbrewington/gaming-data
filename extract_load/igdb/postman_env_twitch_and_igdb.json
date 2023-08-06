@@ -1,0 +1,27 @@
+{
+	"id": "511b8162-7210-4817-a39a-750bcc30f884",
+	"name": "Twitch and IGDB (Private)",
+	"values": [
+		{
+			"key": "twitch_client_id",
+			"value": "your-value-here",
+			"type": "secret",
+			"enabled": true
+		},
+		{
+			"key": "twitch_client_secret",
+			"value": "your-value-here",
+			"type": "secret",
+			"enabled": true
+		},
+		{
+			"key": "twitch_access_token",
+			"value": "your-value-here",
+			"type": "secret",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2023-08-06T16:08:26.364Z",
+	"_postman_exported_using": "Postman/10.16.8-230804-0901"
+}

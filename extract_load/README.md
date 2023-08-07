@@ -14,4 +14,8 @@ Here's some screenshots showing the current setup for this project:
 
 ![Airbyte Sources View](docs/airbyte_sources.png)
 
-![Snowflake View](docs/snowflake_airbyte_database.png)
+![Snowflake Airbyte Database](docs/snowflake_airbyte_database.png)
+
+![Snowflake Data: Blizzard - WOW](docs/snowflake_data_blizzard_wow.png)
+
+![Snowflake Data: IGDB](docs/snowflake_data_igdb.png)
